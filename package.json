@@ -1,0 +1,14 @@
+{
+  "name": "conectando-node-com-db",
+  "version": "1.0.0",
+  "description": "Conectando o banco de dados pgAdmin no node",
+  "main": "conectDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofia Ferreira Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
